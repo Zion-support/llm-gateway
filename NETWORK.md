@@ -1,16 +1,19 @@
-# 🌐 Zion App Network — Interlinks
+# llm-gateway — Zion App Network
 
-**llm-gateway** is part of the Zion Tech Group app network (630+ apps).
+Zion LLM Gateway — smart model routing, caching & failover.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+- Live app: https://ziontechgroup.com/llm-gateway/
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
-## Related apps
-- [zion-ai-gateway](https://github.com/Zion-support/zion-ai-gateway) — unified LLM API gateway
-- [llm-cost-optimizer](https://github.com/Zion-support/llm-cost-optimizer) — token spend estimator
-- [zion-model-router](https://github.com/Zion-support/zion-model-router) — routing rule configurator
-- [model-observatory](https://github.com/Zion-support/model-observatory) — ML/LLM observability
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+## Related apps (AI Agents & LLM Tooling)
+- [zion-ai-prompt-router](https://ziontechgroup.com/zion-ai-prompt-router) — intelligent LLM routing & cost arbitrage
+- [llm-cost-optimizer](https://ziontechgroup.com/llm-cost-optimizer/) — token spend estimator
+- [prompt-forge](https://ziontechgroup.com/prompt-forge/) — build, optimize and score prompts
+- [prompt-shield](https://ziontechgroup.com/prompt-shield/) — LLM security testing
+- [zion-rag-platform](https://rag.ziontechgroup.com) — RAG infrastructure
+- [ai-eval-harness](https://ziontechgroup.com/ai-eval-harness/) — evaluation & regression testing for LLM features
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
